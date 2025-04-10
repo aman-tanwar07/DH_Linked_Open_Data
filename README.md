@@ -29,9 +29,11 @@ OpenAlex API
 
 NetworkX, Pandas
 
-📄 Author
+📄 Author: 
 
 Aman Tanwar
+
 MSc NLP, Universität Trier
+
 📧 s2amtanw@uni-trier.de
 

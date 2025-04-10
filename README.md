@@ -17,7 +17,7 @@ These rankings are evaluated against a manually curated list of key works in sty
 
 Citation count outperformed PageRank in this context
 
-PageRank showed stability and identified indirectly influential papers
+PageRank showed stability 
 
 Both methods had high overlap, especially in smaller corpora
 
